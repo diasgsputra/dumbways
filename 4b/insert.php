@@ -7,22 +7,22 @@
                 <tr>
                     <td>Nama</td>
                     <td> </td>
-                    <td><input type="text" name="nama"></td>
+                    <td><input type="text" name="name"></td>
                 </tr>
                 <tr>
-                    <td>NIM</td>
+                    <td>Stok</td>
                     <td> </td>
-                    <td><input type="text" name="nim"></td>
+                    <td><input type="text" name="stok"></td>
                 </tr>
                 <tr>
-                    <td>Bidang</td>
+                    <td>Deskripsi</td>
                     <td> </td>
-                    <td><input type="text" name="bidang"></td>
+                    <td><input type="text" name="deskripsi"></td>
                 </tr>
                 <tr>
-                    <td>Foto</td>
+                    <td>Image</td>
                     <td> </td>
-                    <td><input type="file" name="foto"></td>
+                    <td><input type="file" name="image"></td>
                 </tr>
                 <tr>
                     <td></td>
